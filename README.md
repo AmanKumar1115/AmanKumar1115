@@ -6,7 +6,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman-kumar-a5a126248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar-a5a126248" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/amankumar_115" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amankumar_115" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amankr5548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amankr5548" height="30" width="40" /></a>
 </p>
 
